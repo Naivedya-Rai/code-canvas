@@ -51,9 +51,9 @@ a{
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
 }
-.slider::-moz-range-track {
-  /* background-color: #9a905d; */
-}
+/*.slider::-moz-range-track {
+  /* background-color: #9a905d;} */
+
 /* IE*/
 .slider::-ms-fill-lower {
   height: 10px;
