@@ -1,0 +1,42 @@
+.bar {
+  box-shadow: 1px 0px 0 0px #000; /* Adjust shadow color as needed */
+  background: linear-gradient(0deg, #0033CC 10%, #00CCFF 35%, #0074E4 100%); /* Vibrant blue gradient with inverted direction */
+}
+
+.swap1 {
+  background: linear-gradient(0deg, #660066 0%, #FF4DFF 35%, #0074E4 110%); /* Vibrant pinkish gradient with inverted direction */
+}
+
+.swap2 {
+  background: linear-gradient(0deg, #FFCC00 0%, #FF6D42 35%, #0074E4 110%); /* Vibrant orange gradient with inverted direction */
+}
+
+
+
+
+
+
+/* .sorted {
+  background: linear-gradient(0deg, #214d39 0%, #4caf5e 35%, #4caf96 110%);
+  box-shadow: 1px 0px 0 0px #4e5052;
+  animation-name: sorted-animation;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  animation-play-state: running;
+}
+
+@keyframes sorted-animation {
+  0% {
+    background: rgb(76, 175, 94, 0.);
+  }
+  50% {
+    background: rgb(76, 175, 94);
+  }
+  100% {
+    background: rgb(76, 175, 94);
+  }
+} */

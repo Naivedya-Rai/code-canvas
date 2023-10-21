@@ -1,0 +1,56 @@
+.rect-container {
+  transition: all 1s;
+}
+
+.rect {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: all 1s;
+}
+
+.face {
+  position: absolute;
+  border: 1px solid #003766; /* Slightly darker blue border color */
+  border-collapse: collapse;
+}
+
+.front {
+  background-color: rgba(0, 76, 153, 0.5); /* Slightly darker blue background color */
+  transform: rotateX(0deg) translateZ(0px);
+  transition: all 1s;
+}
+
+.back {
+  opacity: 0.5;
+  background-color: #003766; /* Slightly darker blue background color */
+  transform: rotateX(180deg) translateZ(30px);
+  transition: all 1s;
+}
+
+.right {
+  width: 30px;
+  background-color: #003766; /* Slightly darker blue background color */
+  transform: rotateY(90deg) translateX(15px);
+  transition: all 1s;
+}
+
+.left {
+  width: 30px;
+  background-color: #003766; /* Slightly darker blue background color */
+  transform: rotateY(-90deg) translateZ(15px) translateX(-15px);
+  transition: all 1s;
+}
+
+.top {
+  height: 30px;
+  background-color: #003766; /* Slightly darker blue background color */
+  transform: rotateX(90deg) translateZ(15px) translateY(-15px);
+  transition: all 1s;
+}
+
+bottom {
+  height: 30px;
+  background-color: #003766; /* Slightly darker blue background color */
+  transform: rotateX(-90deg) translateY(15px);
+  transition: all 1s;
+}
