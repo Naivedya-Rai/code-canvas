@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Naivedya-Rai/code-canvas.git/static/css/main.0e71ab10.css",
-    "main.js": "/Naivedya-Rai/code-canvas.git/static/js/main.59fc0d5c.js",
-    "static/media/example.png": "/Naivedya-Rai/code-canvas.git/static/media/example.64c06d2f30a2fc442d21.png",
-    "static/media/algo.png": "/Naivedya-Rai/code-canvas.git/static/media/algo.28a75ee8c28dc29f2069.png",
-    "static/media/settings.png": "/Naivedya-Rai/code-canvas.git/static/media/settings.f2ddb33244ad9f9c0e63.png",
-    "index.html": "/Naivedya-Rai/code-canvas.git/index.html",
-    "main.0e71ab10.css.map": "/Naivedya-Rai/code-canvas.git/static/css/main.0e71ab10.css.map",
-    "main.59fc0d5c.js.map": "/Naivedya-Rai/code-canvas.git/static/js/main.59fc0d5c.js.map"
+    "main.css": "/code-canvas/static/css/main.0e71ab10.css",
+    "main.js": "/code-canvas/static/js/main.00588fe8.js",
+    "static/media/example.png": "/code-canvas/static/media/example.64c06d2f30a2fc442d21.png",
+    "static/media/algo.png": "/code-canvas/static/media/algo.28a75ee8c28dc29f2069.png",
+    "static/media/settings.png": "/code-canvas/static/media/settings.f2ddb33244ad9f9c0e63.png",
+    "index.html": "/code-canvas/index.html",
+    "main.0e71ab10.css.map": "/code-canvas/static/css/main.0e71ab10.css.map",
+    "main.00588fe8.js.map": "/code-canvas/static/js/main.00588fe8.js.map"
   },
   "entrypoints": [
     "static/css/main.0e71ab10.css",
-    "static/js/main.59fc0d5c.js"
+    "static/js/main.00588fe8.js"
   ]
 }
