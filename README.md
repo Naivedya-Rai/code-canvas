@@ -148,7 +148,7 @@ Now, you can use these scripts to manage your Code Canvas application. Installin
 
 If you have any other specific requirements or questions, please feel free to ask.
 
-#Future Scope
+## Future Scope
 CodeCanvas is continuously evolving, and there are several exciting features and improvements in the pipeline. Here's a glimpse of what you can expect in the future:
 
 User Authentication: We plan to add a robust user login system, allowing users to create accounts, save their progress, and share their algorithm visualizations and coding exercises with the community.
