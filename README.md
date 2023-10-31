@@ -31,7 +31,7 @@ Welcome to **CodeCanvas: DS & Algo Visualizer**, your ultimate tool for explorin
 8. **Immersive 3D Effects**: Enjoy cool 3D effects that make the visualization engaging and visually appealing.
 
 #Available Algorithms
-Certainly! Here are brief explanations of the pathfinding and sorting algorithms for your GitHub README:
+
 
 ## Pathfinding Algorithms
 
