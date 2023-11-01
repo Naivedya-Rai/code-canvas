@@ -9,6 +9,7 @@ Welcome to **CodeCanvas: DS & Algo Visualizer**, your ultimate tool for explorin
 - [Sorting Algorithms](#sorting-algorithms)
 - [How to Use Locally](#how-to-use-locally)
 - [Live Demo](#live-demo)
+- [Overview](#Overview)
 
 ## Key Features
 
@@ -170,5 +171,15 @@ CodeCanvas is committed to becoming your ultimate destination for algorithm visu
 ## Live Demo
 ![image](https://github.com/Naivedya-Rai/code-canvas/assets/122347651/c5086e16-bf8d-4203-9068-f84cd8f16dd3)
 You can experience Code Canvas live by visiting the hosted version at [Code Canvas Live Demo](https://naivedya-rai.github.io/code-canvas/). Feel free to experiment, have fun, and learn about various pathfinding and sorting algorithms. This live demo provides a hands-on experience with the application, allowing you to explore its features and visualize the algorithms in action.
+
+## Overview
+
+This web application was built using a powerful combination of modern web development technologies:
+
+React: A JavaScript library for building user interfaces, React allows for the creation of dynamic, single-page web applications. It enables the development of reusable UI components and efficient rendering.
+
+Redux: Redux is a state management library that provides a predictable and centralized way to manage the application's state. It ensures a smooth and maintainable data flow, making it easier to handle complex data interactions.
+
+Material-UI: Material-UI is a popular UI framework for React, implementing Google's Material Design guidelines. It offers a wide range of pre-designed UI components, styles, and themes for creating a modern and consistent user interface.
 
 Enjoy your exploration of Code Canvas! If you have any questions or need further assistance, please don't hesitate to reach out.
